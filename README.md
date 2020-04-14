@@ -14,8 +14,7 @@ These notebooks complement the paper *Learning the Shape: Differential Machine L
  
 We also posted additional material [here](https://differential-machine-learning.github.io/appendices/), including mathematical proofs, various extensions and considerations for an implementation in production.
 
-https://github.com/differential-machine-learning
-
 <p align="center">
+ github.com/differential-machine-learning
   <img src="differential.png">
 </p>

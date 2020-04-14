@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 title: "Learning the Shape: Differential Machine Learning (Risk, 2020)"
 email: antoine.savine@deep-analytics.org
 description: "Notebooks implementing the novel ides in the Risk paper: Learning the Shape - Differential Machine Learning, by Brian Huge and Antoine Savine"

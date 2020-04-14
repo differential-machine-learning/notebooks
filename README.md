@@ -16,5 +16,5 @@ We also posted additional material [here](https://differential-machine-learning.
 
 <p align="center">  
   <img src="differential.png">
-  <https://github.com/differential-machine-learning>
+  [github.com/differential-machine-learning](https://github.com/differential-machine-learning)
 </p>

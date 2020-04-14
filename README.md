@@ -10,6 +10,4 @@
 
 <a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialRegression.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-<p align="center">
   ![differential logo](https://github.com/differential-machine-learning/images/blob/master/differential.png)
-</p>

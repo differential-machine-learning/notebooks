@@ -13,7 +13,9 @@ These notebooks complement the paper *Learning the Shape: Differential Machine L
 <a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialRegression.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  
 We also posted additional material [here](https://differential-machine-learning.github.io/appendices/), including mathematical proofs, various extensions and considerations for an implementation in production.
- 
+
+https://github.com/differential-machine-learning
+
 <p align="center">
   <img src="differential.png">
 </p>

@@ -33,8 +33,7 @@ To a large extent, differential machine learning is another strong application o
 
 The Risk paper or the complements do not cover AAD. Readers are referred to the (stellar) founding paper. [This textbook](https://www.amazon.com/Modern-Computational-Finance-Parallel-Simulations-dp-1119539455/dp/1119539455) provides a complete, up to date overview of AAD, its applications in finance, and a complete, professional implementation in modern C++.
 
-The video tutorial below introduces the core ideas in 15 minutes (click on the picture to play). The slides are available [here](https://drive.google.com/file/d/1dJz7c4fe7bAkfRX3ntv3vyx_VNfFMOsO/view).
+The video tutorial below introduces the core ideas in 15 minutes. Click on the picture to play. 
 
-<p align="center"> <a href="http://www.youtube.com/watch?feature=player_embedded&v=IcQkwgPwfm4
-" target="_blank"><img src="http://img.youtube.com/vi/IcQkwgPwfm4/0.jpg" 
-alt="AAD explained in 15 minutes by Antoine Savine"  /></a>   </p>
+<p align="center"> <a href"https://towardsdatascience.com/automatic-differentiation-15min-video-tutorial-with-application-in-machine-learning-and-finance-333e18c0ecbb"><img src="https://miro.medium.com/max/1400/1*bHsIA1jy08p71uZcg8HiIQ.png" 
+alt="AAD explained in 15 minutes"  /></a>   </p>

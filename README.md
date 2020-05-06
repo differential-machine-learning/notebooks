@@ -1,7 +1,7 @@
 # notebooks
 ---
 
-These notebooks complement the working paper [Differential Machine Learning](https://sites.google.com/view/differential-machine-learning) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020), including code, practical implementation considerations and extensions. 
+These notebooks complement the working paper [Differential Machine Learning](https://arxiv.org/abs/2005.02347) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020), including code, practical implementation considerations and extensions. 
 
 **DifferentialML.ipynb** is the main demonstration notebook for the concepts and ideas of the working paper. We provide a simple, yet fully functional implementation of twin networks and differential training, and apply them to some textbook examples, including the reproduction of the Bachelier example in the section 3.1 of the article. We also discuss the details of a practical implementation, including the important matters of initialization, optimization and normalization, which are not covered in the paper. This notebook is based on TensorFlow 1.x and built to run on GPU, either locally or on Google Colab. 
 

@@ -35,5 +35,6 @@ The Risk paper or the complements do not cover AAD. Readers are referred to the 
 
 The video tutorial below introduces the core ideas in 15 minutes. Click on the picture to play. 
 
-[Automatic Differentiation Explained in 15min ("https://miro.medium.com/max/1400/1*bHsIA1jy08p71uZcg8HiIQ.png")*Automatic Differentiation Explained in 15min on Towards Data Science*](https://towardsdatascience.com/automatic-differentiation-15min-video-tutorial-with-application-in-machine-learning-and-finance-333e18c0ecbb)
+[<Automatic Differentiation Explained in 15min src="https://miro.medium.com/max/1400/1*bHsIA1jy08p71uZcg8HiIQ.png" *Automatic Differentiation Explained in 15min on Towards Data Science*](https://towardsdatascience.com/automatic-differentiation-15min-video-tutorial-with-application-in-machine-learning-and-finance-333e18c0ecbb)
 
+[<CaptionedImage src="https://miro.medium.com/max/1400/1*bHsIA1jy08p71uZcg8HiIQ.png" caption="Automatic Differentiation Explained in 15min on Towards Data Science"></CaptionedImage>](https://towardsdatascience.com/automatic-differentiation-15min-video-tutorial-with-application-in-machine-learning-and-finance-333e18c0ecbb)

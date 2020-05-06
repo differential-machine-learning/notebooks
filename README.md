@@ -1,7 +1,7 @@
 # appendices
 ---
 
-These documents complement the working paper [Differential Machine Learning](https://sites.google.com/view/differential-machine-learning) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020), including mathematical proofs, various extensions and considerations for an implementation in production.
+These documents complement the working paper [Differential Machine Learning](https://arxiv.org/abs/2005.02347) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020), including mathematical proofs, various extensions and considerations for an implementation in production.
 
 [**App1-LSM.pdf**](https://github.com/differential-machine-learning/appendices/blob/master/App1-LSM.pdf) recalls the details of the classic Least Square Method (LSM) of Longstaff-Schwartz (2001) and formalizes it in machine learning terms. The convergence of approximators trained on LSM datasets is demonstrated with both standard and differential training. 
 

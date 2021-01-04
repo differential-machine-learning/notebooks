@@ -9,7 +9,7 @@ These notebooks complement the working paper [Differential Machine Learning](htt
 
 **DifferentialMLTF2.ipynb** is an upgrade to DifferentialML.ipynb for TensorFlow 2.x. Its current form does not run 'idiomatic' TensorFLow 2 code, what we do is really run TensorFlow 1 code in TensorFlow 2. Still, the new notebook benefits from the latest TensorFlow improvements resulting in a noticeable performance improvement. DifferentialML.ipynb will no longer be maintained going forward, bug fixes, improvements and extensions will be implemented directly in the TensorFlow 2 notebook.
 
-<a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialMLTF2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **DifferentialRegression.ipynb** applies differential learning in the context of classic regression models. In the article, we applied differential learning to deep neural networks only. This notebook applies it to polynomial regression to the basket option in a correlated Bachelier model of section 3,1. We see that, with regression too, differential training provides a massive performance improvement, without the need for additional regularization, or hyperparameter optimization. 
 

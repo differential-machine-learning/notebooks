@@ -11,10 +11,14 @@ These notebooks complement the working paper [Differential Machine Learning](htt
 
 <a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialMLTF2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**DifferentialRegression.ipynb** applies differential learning in the context of classic regression models. In the article, we applied differential learning to deep neural networks only. This notebook applies it to polynomial regression to the basket option in a correlated Bachelier model of section 3,1. We see that, with regression too, differential training provides a massive performance improvement, without the need for additional regularization, or hyperparameter optimization. 
+**DifferentialRegression.ipynb** applies differential learning in the context of classic regression models. In the article, we applied differential learning to deep neural networks only. This notebook applies it to polynomial regression to the basket option in a correlated Bachelier model of section 3,1. We see that, with regression too, differential training provides a massive performance improvement, without the need for additional regularization, or hyperparameter optimization. Differential regression is covered in detail in the upcoming follow-up article <b> Axes that matter: PCA with a difference </b>.
 
 <a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialRegression.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  
+**DifferentialPCA.ipynb** implements and illustrates differential dimension reduction covered in the follow-up article <b> Axes that matter: PCA with a difference </b>.
+
+<a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialPCA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  
 We also posted additional material [here](https://differential-machine-learning.github.io/appendices/), including mathematical proofs, various extensions and considerations for an implementation in production.
           
 [github.com/differential-machine-learning](https://github.com/differential-machine-learning)

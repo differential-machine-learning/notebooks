@@ -18,7 +18,11 @@ These notebooks complement the working paper [Differential Machine Learning](htt
 **DifferentialPCA.ipynb** implements and illustrates differential dimension reduction covered in the follow-up article <b> Axes that matter: PCA with a difference </b>.
 
 <a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/DifferentialPCA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  
+
+**Bermudan5F.ipynb** applies differential regression and PCA to the determination of risk factors and continuation values of Bermudan options, giving a flavour of the application of differential ML to real-world problems. Factor dependencies of Derivatives transactions and trading books, in particular, are usually identified by manual analysis. This notebook leverages the possibility to simulate differential data with AAD, and the differential ML algorithms that consume that differential data, to perform this analysis automatically, from simulated data, with guaranteed reliability. This notebook uses differential regression and PCA developed in DifferentialRegression.ipynb and DifferentialPCA.ipynb, so it is recommended to read these two notebooks first.
+
+<a href="https://colab.research.google.com/github/differential-machine-learning/notebooks/blob/master/Bermudan5F.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 We also posted additional material [here](https://differential-machine-learning.github.io/appendices/), including mathematical proofs, various extensions and considerations for an implementation in production.
           
 [github.com/differential-machine-learning](https://github.com/differential-machine-learning)

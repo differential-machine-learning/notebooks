@@ -1,7 +1,7 @@
 # notebooks
 ---
 
-These notebooks complement the Risk papers [Differential Machine Learning](https://www.risk.net/cutting-edge/banking/7688441/differential-machine-learning-the-shape-of-things-to-come) and [Axes that matter](https://www.risk.net/cutting-edge/banking/7877231/axes-that-matter-pca-with-a-difference) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020), including code, practical implementation considerations and extensions. 
+These notebooks complement the Risk papers [Differential Machine Learning](https://www.risk.net/cutting-edge/banking/7688441/differential-machine-learning-the-shape-of-things-to-come) and [Axes that matter](https://www.risk.net/cutting-edge/banking/7877231/axes-that-matter-pca-with-a-difference) by Brian Huge and [Antoine Savine](https://antoinesavine.com) (2020-21), including code, practical implementation considerations and extensions. 
 
 **DifferentialML.ipynb** is the main demonstration notebook for the concepts and ideas of the working paper. We provide a simple, yet fully functional implementation of twin networks and differential training, and apply them to some textbook examples, including the reproduction of the Bachelier example in the section 3.1 of the article. We also discuss the details of a practical implementation, including the important matters of initialization, optimization and normalization, which are not covered in the paper. This notebook is based on TensorFlow 1.x and built to run on GPU, either locally or on Google Colab. 
 
